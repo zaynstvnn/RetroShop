@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customerForm) {
             customerForm.addEventListener('submit', function(event) {
                 event.preventDefault(); 
-                const nomorWhatsApp = '62895345371932';
+                const nomorWhatsApp = '6281322998301';
                 const nama = document.getElementById('customer-name').value;
                 const alamat = document.getElementById('customer-address').value;
                 let pesan = `Halo RetroShop, saya mau pesan:\n\n`;
